@@ -1,0 +1,18 @@
+1
+Kasalj
+2
+2
+Curenje nosa
+2
+3
+Visoka temperatura
+3
+4
+Proljev
+1
+5
+Povracanje
+1
+6
+Bez mirisa i oksusa
+2

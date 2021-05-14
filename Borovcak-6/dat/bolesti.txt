@@ -1,0 +1,15 @@
+1
+Astma
+1,2,3
+2
+Konjuktivitis
+1,2,3
+3
+Bronhitis
+1,2,3
+4
+Rak pluća
+1
+5
+AIDS
+1,2,3,4,5,6
